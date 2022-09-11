@@ -1,6 +1,7 @@
 ### Oi eu sou Jose Neto Formado em ADS, Pós - Graduando em Desenvolvimento de Aplicações Web 👋
 - 🔭 No momento estou trabalhando como Analista de Suporte
 - 🌱 Estudando HTML, CSS & JavaScript
+##
 <div align="center">
   <a href="https://github.com/JP-Neto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP-Neto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
