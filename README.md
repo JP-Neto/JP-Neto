@@ -1,7 +1,7 @@
 ### Oi eu sou Jose Neto Formado em ADS, Pós - Graduando em Desenvolvimento de Aplicações Web 👋
 - 🔭 No momento estou trabalhando como Analista de Suporte
 - 🌱 Estudando HTML, CSS & JavaScript
-##
+
 
 
 <div align="center">
