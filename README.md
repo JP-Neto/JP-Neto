@@ -18,7 +18,7 @@
     
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
-  <img align="center" height="30" width="30" href="https://github.com/JP-Neto" src="https://construct-static.com/images/v1026/uploads/product/2/defaulticon/1/icon.png">
+  <img align="center" height="30" width="30" src="https://construct-static.com/images/v1026/uploads/product/2/defaulticon/1/icon.png" href="https://github.com/JP-Neto" >
   </div>
   
    ##
