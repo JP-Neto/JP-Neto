@@ -1,7 +1,7 @@
 ### Oi eu sou Jose Neto Formado em ADS, Pós - Graduando em Desenvolvimento de Aplicações Web 👋
 - 🔭 No momento estou trabalhando como Analista de Suporte
 - ⚡ Sou Desenvolvedor Pleno Em jogos Digitais com Construct
-- 🌱 Estudando HTML, CSS & JavaScript
+- 🌱 Estudando Python
 ##
 <div align="center style="display: none" >
   <a href="https://github.com/JP-Neto">
