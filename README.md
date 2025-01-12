@@ -1,7 +1,11 @@
-### Oi eu sou Jose Neto Formado em ADS, Pós - Graduando em Desenvolvimento de Aplicações Web 👋
-- 🔭 No momento estou trabalhando como Analista de Suporte
-- ⚡ Sou Desenvolvedor Pleno Em jogos Digitais com Construct
-- 🌱 Em constante aprendizado
+### Oi, eu sou Jose Neto 👋  
+Formado em ADS | Pós-graduando em Computação em Nuvem e Arquitetura de Projetos de Cloud Computing | Pós-graduando em Desenvolvimento de Aplicações Web Full Stack  
+
+- 🔭 Atualmente, trabalho como Analista de Infraestrutura Cloud  
+- ⚡ Certificações em Fortinet, Terraform, AWS e outras  
+- 🌱 Apaixonado por Cloud, DevOps e Agilidade. Em constante aprendizado e explorando novas tecnologias  
+- 🚀 Sempre em busca de soluções inovadoras e escaláveis na infraestrutura e automação
+
 ##
 <div align="center style="display: none" >
   <a href="https://github.com/JP-Neto">
