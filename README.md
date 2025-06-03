@@ -1,60 +1,57 @@
-### Oi, eu sou Jose Neto 👋  
-Formado em ADS | Pós-graduando em Computação em Nuvem e Arquitetura de Projetos de Cloud Computing | Pós-graduando em Desenvolvimento de Aplicações Web Full Stack  
+# 👋 Oi, eu sou o Jose Neto  
 
-- 🔭 Atualmente, trabalho como Analista de Infraestrutura Cloud  
-- ⚡ Certificações em Fortinet, Terraform, AWS e outras  
-- 🌱 Apaixonado por Cloud, DevOps e Agilidade. Em constante aprendizado e explorando novas tecnologias  
-- 🚀 Sempre em busca de soluções inovadoras e escaláveis na infraestrutura e automação
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+📚 Pós-graduando em Computação em Nuvem, Arquitetura e Projetos de Cloud Computing e Desenvolvimento Full Stack.  
+  📌 Certificações: AWS SAA-C03 | CLF-C02 | AZ-900 |
 
-##
-<div align="center style="display: none" >
-  <a href="https://github.com/JP-Neto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP-Neto&show_icons=true&theme=dark&&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Neto&layout=compact&langs_count=20&theme=dark&"/>
+Atuo como **Analista de Infraestrutura Cloud com forte foco em DevOps e SRE**, trabalhando com automações, provisionamento com Terraform, CI/CD, observabilidade e sustentação de ambientes críticos em AWS e hibrído.
 
- </div>
-<div style="display: inline_block"><br>
+Sou apaixonado por **Cloud, automação,desenvolvimento e arquitetura escalável**.
 
- 
-   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+---
 
-   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    
-    
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="30" src="construct2.png" href="https://github.com/JP-Neto" >
-  </div>
+## ⚙️ Tecnologias e Ferramentas
+
+<div style="display: flex; align-items: center;">
   
-   ##
-   
-   <div> 
-   
-  <a/>
-  
-  <a href="https://instagram.com/_joseneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  <a href = "mailto:josepereiranetobn@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josepneto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" alt="grafana" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" alt="zabbix" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40"/>
+  <img src="https://user-images.githubusercontent.com/1874103/46415699-cfc5cf00-c6f3-11e8-9bcc-2fc2bf1759ec.png" alt="azure-devops" width="40"/>
 </div>
 
+## 📁 Projetos em Destaque
 
+> 🔧 Alguns Repositórios com práticas em DevOps e Cloud:
 
-<!--
-**JP-Neto/JP-Neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [`infra-monitoring-veeam-grafana`](https://github.com/JP-Neto/infra-monitoring-veeam-grafana)  
+  🔹 Automação de coleta de dados da API do Veeam, inserção em PostgreSQL e abertura de chamados Redmine.   
+  🔹 Substitui planilhas manuais com dashboards em tempo real com Grafana. 
 
-Here are some ideas to get you started:
+- [`aws-iac-terraform-lab`](https://github.com/JP-Neto/aws-iac-terraform-lab)  
+  🔹 Provisionamento de ambiente AWS com VPC, EC2, S3, ALB, NAT e INT Gateway, IAM usando Terraform modular.
+  
+- [`Projeto CI/CD_JoseNeto`](https://github.com/JP-Neto/unyleya_projeto_cicd_JoseNeto)  
+  🔹 Pipeline CI/CD com **Azure DevOps** para build e deploy automático de imagem Docker no Docker Hub  
+  🔹 Integração com GitHub, Docker e Docker Hub  
+ 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josepneto/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dougasn@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_joseneto)
+
+---
+
+⚡ *"Às vezes, as coisas mais simples são as que entregam mais valor. Crescendo sempre com consistência."*
