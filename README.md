@@ -38,7 +38,8 @@ Sou apaixonado por **Cloud, automação,desenvolvimento e arquitetura escalável
   🔹 Substitui planilhas manuais com dashboards em tempo real com Grafana. 
 
 - [`aws-iac-terraform-lab`](https://github.com/JP-Neto/aws-iac-terraform-lab)  
-  🔹 Infraestrutura AWS com VPC segmentada, EC2 em múltiplas zonas, Load Balancer, S3 seguro e SGs com regras mínimas provisionado com Terraform modular.
+  🔹 Infraestrutura AWS com VPC segmentada (DMZ, APP, BD),S3 e EC2 com SGs mínimos, ALB distribuindo entre instâncias privadas.  
+  🔹 Instâncias APP sobem com Apache via user_data, exibindo a AZ na página web para testes de balanceamento.
   
 - [`Projeto CI/CD_JoseNeto`](https://github.com/JP-Neto/unyleya_projeto_cicd_JoseNeto)  
   🔹 Pipeline CI/CD com **Azure DevOps** para build e deploy automático de imagem Docker no Docker Hub  
